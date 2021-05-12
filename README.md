@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 [![just-sudo-it's GitHub stats](https://github-readme-stats.vercel.app/api?username=just-sudo-it)](https://github.com/just-sudo-it/github-readme-stats)
 
+![just-sudo-it's GitHub stats](https://github-readme-stats.vercel.app/api?username=just-sudo-it&show_icons=true&theme=dracula)
