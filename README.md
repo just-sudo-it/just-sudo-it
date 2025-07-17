@@ -1,7 +1,4 @@
-## Hi there 👋
 
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
 
 [![My GitHub Stats](https://github-readme-stats-ten-orcin-25.vercel.app/api?username=just-sudo-it&count_private=true&show_icons=true&theme=synthwave&show=reviews,prs_merged,prs_merged_percentage)](https://github.com/just-sudo-it)
 
